@@ -1,0 +1,23 @@
+{
+  "name": "dv-test-sdk",
+  "version": "1.0.0",
+  "description": "Can log \"hello world\" and \"goodbye world\" to the console!",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trongthaonh/deepview-sdk.git"
+  },
+  "author": "Deepview JSC",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trongthaonh/deepview-sdk/issues"
+  },
+  "homepage": "https://github.com/trongthaonh/deepview-sdk#readme"
+}
